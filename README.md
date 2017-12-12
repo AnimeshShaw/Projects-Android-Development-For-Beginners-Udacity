@@ -12,7 +12,7 @@ This is the first project that we did as a part of the __Android Basics: User In
 
 ---
 
-## 1. [ScoreKeeper](https://github.com/AnimeshShaw/ScoreKeeper)
+## 2. [ScoreKeeper](https://github.com/AnimeshShaw/ScoreKeeper)
 
 This is the Second project that we did as a part of the __Android Basics: User Input__ Course.
 
